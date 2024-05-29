@@ -86,7 +86,7 @@ potenciação = valor5_1 ** valor5_2
 print(potenciação)
 ```
 
-### 🐍 Laços de Repetição + Jogo de Adiviação
+### 🐍 Laços de Repetição + Jogo de Adiviação - AULA 2
 - Treinamos mais sore as ``listas``
 - Aprendemos sobre o ``for``
 - Aprendemos sobre o ``while``
