@@ -366,7 +366,7 @@ if __name__ == "__main__":
     menu()
 ```
 
-### Cadastro de Clientes - AULA 6
+### 🐍 Cadastro de Clientes - AULA 6
 - Aqui e um backend de Cadastro de Clientes no Python
 ```python
 
