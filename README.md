@@ -5,7 +5,7 @@ _**Códigos feito por mim na Linguagem Python, com auxilio do Professor Gilberto
 ### 🐍 Conceitos Básicos da Linguagem Python - AULA 1
 - Aqui aprendemos sobre Entrada/Saída de Dados
 - Variáveis tambem foram explicadas
-- Alem da função ``eval()`` que resolve uma expressão de uma variável
+- Alem da função ``eval()`` que resolve uma expressão de uma variável.
   - perdão se a estruta não está bom, foi o começo meu na linguagem
 ```python
 
