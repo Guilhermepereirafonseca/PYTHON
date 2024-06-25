@@ -258,7 +258,7 @@ print("{:<30} {:<10.2f}".format("Média Geral", media_geral))
 print("====================================================================================")
 ```
 
-### 🐍 Class - AULA 6
+### 🐍 Class - AULA 5
 - Aqui apredemos o conceitos da **Lógica orientada a Objetos** do Python
   - Conceito muito utilizado para entender _**Banco de Dados**_
 ```python
